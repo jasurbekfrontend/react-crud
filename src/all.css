@@ -1,0 +1,67 @@
+.wrapper {
+    margin: 20px;
+  }
+  
+  .wrapper p {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .wrapper table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .wrapper th, .wrapper td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .wrapper th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  .wrapper td {
+    text-align: left;
+  }
+  
+  .wrapper td.actions button {
+    margin-right: 5px;
+  }
+  
+  .wrapper td.actions button:last-child {
+    margin-right: 0;
+  }
+  .create-wrapper {
+    margin: 20px;
+  }
+  
+  .create-wrapper form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .create-wrapper input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .create-wrapper button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .create-wrapper button:hover {
+    background-color: #0056b3;
+  }
+    
